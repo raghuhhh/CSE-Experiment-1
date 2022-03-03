@@ -1,2 +1,2 @@
 # CSE-Experiment-1
-Lab
+Lab Experiment - 1
