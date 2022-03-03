@@ -1,2 +1,2 @@
 # FSWD Lab testing
-Lab Experiment - 1
+FSWD Lab Experiments
